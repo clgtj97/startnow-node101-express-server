@@ -16,4 +16,4 @@ app.get("/data", function(req,res) {
 
 module.exports = app;
 
-graph.facebook.com/cesarlf?fields = first_name
+// graph.facebook.com/cesarlf?fields = first_name
